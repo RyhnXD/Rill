@@ -8,7 +8,7 @@ m.reply(wait)
 }
 
 handler.help = ['lolice']
-handler.tags = ['maker']
+handler.tags = ['weebs']
 
 handler.command = /^(lolice)$/i
 
