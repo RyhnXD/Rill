@@ -857,7 +857,7 @@ export async function participantsUpdate({ id, participants, action }) {
                         // this.sendFile(id, action === 'add' ? wel : lea, pp, 'pp.jpg', text, null, false, { mentions: [user] })
                        await this.sendHydrated(id, text, wm + '\n\n' + botdate, pp, sgc, (action == 'add' ? '💌 WELCOME' : '🐾 BYE'), user.split`@`[0], '🌹 USER', [
 
-      ['intro', '.intro'],
+      ['Huu', 'Huuu'],
 
       ['Welcome 🐦', '.owner'],
 
